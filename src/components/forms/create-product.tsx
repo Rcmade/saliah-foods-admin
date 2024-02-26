@@ -158,7 +158,7 @@ const CreateUpdateForm = ({
       setIsLoading(true);
       const formateData = { ...data, images: imgs };
       const res = await fetch(
-        `${process.env.NEXT_PUBLIC_BACKEND_URL}/api/product`,
+        `/api/product`,
         {
           method: "POST",
           body: JSON.stringify(formateData),
