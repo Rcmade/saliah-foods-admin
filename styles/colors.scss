@@ -1,0 +1,92 @@
+.text-primary-500 {
+  color: #b68050;
+}
+.\!text-primary-500 {
+  color: #b68050 !important;
+}
+.text-primary-400 {
+  color: #c3966f;
+}
+.bg-primary-500 {
+  background-color: #b68050;
+}
+.bg-secondary {
+  background-color: #1a5632;
+}
+.text-black-500 {
+  color: #737784;
+}
+.text-primary-900 {
+  color: #24190f;
+}
+.text-black-800 {
+  color: #36383e;
+}
+.text-light-100 {
+  color: #24190f;
+}
+.text-light-500 {
+  color: #847a73;
+}
+.text-primary-200 {
+  color: #e1cbb7;
+}
+.bg-primary-200 {
+  background-color: #e1cbb7;
+}
+.bg-primary-50 {
+  background-color: #f7f2ed;
+}
+.text-primary-800 {
+  color: #48321e;
+}
+.bg-primary-100 {
+  background-color: #f0e5db;
+}
+.border-black-400 {
+  border: 1px solid #c4c4c4;
+}
+.border-primary-300 {
+  border-color: #d2b093;
+}
+.text-success-green-900 {
+  color: #00332c;
+}
+.border-primary-500 {
+  border-color: #b68050;
+}
+.bg-success-green-950 {
+  background-color: #001a16;
+}
+.text-black-600 {
+  color: #605f5f;
+}
+
+.active {
+  padding-top: 10px;
+  border-bottom: 2px solid #b68050;
+}
+.double {
+  margin-top: 40px;
+  padding-top: 0px;
+  border-bottom: 2px solid #b68050;
+}
+
+.dropdown {
+  position: relative;
+}
+
+.dropdown:before {
+  content: "";
+  position: absolute;
+  right: 5px;
+  top: 18px;
+  width: 0;
+  height: 0;
+  background: transparent;
+  border-radius: 50%;
+}
+
+select::-ms-expand {
+  display: none;
+}

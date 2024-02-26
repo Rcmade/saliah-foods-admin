@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "category": "dates",
+      "productName": "Ajwa Dates",
+      "salePrice": "₹150.50",
+      "basicPrice": "₹159.00"
+    },
+    {
+      "category": "dates",
+      "productName": "Black Dates",
+      "salePrice": "₹150.50",
+      "basicPrice": "₹159.00"
+    },
+    {
+      "category": "dates",
+      "productName": "Fardh Dates",
+      "salePrice": "₹118.15",
+      "basicPrice": "₹211.65"
+    },
+    {
+      "category": "dates",
+      "productName": "Safari Dates",
+      "salePrice": "₹150.50",
+      "basicPrice": "₹249.00"
+    }
+  ]
+}

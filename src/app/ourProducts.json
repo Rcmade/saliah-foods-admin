@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "category": "Best Seller",
+    "image": "https://i0.wp.com/www.saliahfoods.com/wp-content/uploads/2023/02/1080x1080-04-1.png?fit=500%2C500&ssl=1",
+    "title": "Pistachio & Almond"
+  },
+  {
+    "id": 2,
+    "category": "Mini Bytes",
+    "image": "https://i0.wp.com/www.saliahfoods.com/wp-content/uploads/2023/02/03-Mini-Bites_Piri_800x800.png?fit=800%2C800&ssl=1",
+    "title": "Piri Piri"
+  },
+  {
+    "id": 3,
+    "category": "Date Syrup",
+    "image": "https://i0.wp.com/www.saliahfoods.com/wp-content/uploads/2023/02/1080x1080-02-scaled-2.jpg?fit=500%2C500&ssl=1",
+    "title": "Date Syrup"
+  },
+  {
+    "id": 4,
+    "category": "Honey",
+    "image": "https://i0.wp.com/saliahfoods.com/wp-content/uploads/2023/02/honey-mokeup-1.png?w=980&ssl=1",
+    "title": "Honey"
+  }
+]
