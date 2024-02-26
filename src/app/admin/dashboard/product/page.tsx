@@ -8,6 +8,8 @@ interface PageProps {
 }
 
 export const fetchCache = "force-no-store";
+export const dynamic = "force-dynamic";
+export const revalidate = 0;
 const page = async ({ searchParams }: PageProps) => {
   if (searchParams?.type === "edit" && searchParams?._id) {
     // const res = await fetch(
