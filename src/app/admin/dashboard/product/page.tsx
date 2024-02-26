@@ -6,6 +6,8 @@ interface PageProps {
   params: { page: string };
   searchParams: { [key: string]: string };
 }
+
+export const revalidate = 0;
 const page = async ({ searchParams }: PageProps) => {
   if (searchParams?.type === "edit" && searchParams?._id) {
     // const res = await fetch(

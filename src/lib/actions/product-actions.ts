@@ -9,6 +9,8 @@ export const getAllProducts = async () => {
   return data || [];
 };
 
+
+export const revalidate = 0;
 export const getProduct = async (_id: string) => {
   await connectToDB();
   const data = await Product.findById(_id);
